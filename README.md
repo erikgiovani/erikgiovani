@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-<a href="https://erikgiovani.github.io"><img height="70" alt="Web Site" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/globe.png"></a>
+<a target="_blank" href="https://erikgiovani.github.io"><img height="70" alt="Web Site" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/globe.png"></a>
 <img height="40" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/blank.png">
-<a href="https://es.stackoverflow.com/users/168217/erik-giovani"><img height="70" alt="Stack Overflow" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/overflowing.png"></a>
+<a target="_blank" href="https://es.stackoverflow.com/users/168217/erik-giovani"><img height="70" alt="Stack Overflow" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/overflowing.png"></a>
 <img height="40" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/blank.png">
-<a href="https://github.com/ErikGIovani"><img height="70" alt="Github" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/github.png"></a>
+<a target="_blank" href="https://github.com/ErikGIovani"><img height="70" alt="Github" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/github.png"></a>
 </div>
 
 <br/>
