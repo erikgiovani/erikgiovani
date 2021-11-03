@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-<a> <img height="200" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/web-tech.png"/></a>
+<a> <img height="100%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/web-tech.png"/></a>
 </div>
 
 <div align="center">
