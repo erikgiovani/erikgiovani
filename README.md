@@ -17,8 +17,12 @@
 </div>
 
 <div align="center">
-<a> <img  src="https://github-readme-stats.vercel.app/api?username=ErikGIovani&show_icons=true&hide=stars"/></a>
-<a> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikGIovani&layout=compact"/></a>
+<a> <img width="20%" src="https://github.githubassets.com/images/mona-loading-default.gif"/> </a>
+</div>
+
+<div align="center">
+<a> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ErikGIovani&show_icons=true&hide=stars"/></a>
+<a> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikGIovani&layout=compact"/></a>
 </div>
 
 <div align="center">
@@ -42,7 +46,6 @@
 <div align="center">
 <a href="https://erikgiovani.github.io"><img height="60" alt="Erik Giovani" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/logo.png"></a>
 </div>
-
 
 
 
