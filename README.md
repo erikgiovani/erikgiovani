@@ -12,7 +12,7 @@
 
 ## 
 <div align="center">
-  <img width="30%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/logo.png"></a>
+  <img width="20%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/logo.png"></a>
 </div>
 
 
