@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="25%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <h1>Welcome To My GitHub Profile</h1>
    <p>Hello 👋 I am a Frontend Developer with more than 3 years of experience in HTML5, CSS3, Javascript and knowledge in CSS Architectures and CSS Animations. I am currently learning English, Advanced Animations with Canvas in Javascript, Animations with SVG and CSS and Creation of Video Games.</p>	   
 </div>
