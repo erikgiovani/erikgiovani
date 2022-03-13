@@ -1,11 +1,11 @@
 <div align="center">
-   <img width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   <img width="25%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <h1>Welcome To My GitHub Profile</h1>
    <p>Hello 👋 I am a Frontend Developer with more than 3 years of experience in HTML5, CSS3, Javascript and knowledge in CSS Architectures and CSS Animations. I am currently learning English, Advanced Animations with Canvas in Javascript, Animations with SVG and CSS and Creation of Video Games.</p>	   
 </div>
 
 <div align="center">
-   <h2>💻 Tecnologías</h2>
+   <h2>💻 Technologies</h2>
    <img width="60%" src="https://skillicons.dev/icons?i=html,css,sass,javascript,gatsby,wordpress,nodejs,react,nextjs,python,figma,md&perline=6">
    <p>HTML5, CSS3, SASS, JavaScript, Gatsby, Wordpress, Node JS, React, NextJS, Python, Figma Y Markdown</p>
 </div>
