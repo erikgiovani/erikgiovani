@@ -7,7 +7,7 @@
 <div align="center">
    <h2>💻 Technologies</h2>
    <img width="60%" src="https://skillicons.dev/icons?i=html,css,sass,javascript,gatsby,wordpress,nodejs,react,nextjs,python,figma,md&perline=6">
-   <p>HTML5, CSS3, SASS, JavaScript, Gatsby, Wordpress, Node JS, React, NextJS, Python, Figma Y Markdown</p>
+   <p>HTML5, CSS3, SASS, JavaScript, Gatsby, Wordpress, Node JS, React, NextJS, Python, Figma and Markdown</p>
 </div>
 
 ## 
