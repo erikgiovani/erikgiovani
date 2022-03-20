@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="20%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/github.png">
+   <img width="20%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/new-github.png">
   <h1>Welcome To My GitHub Profile</h1>
    <p>Hello 👋 I am a Frontend Developer with more than 3 years of experience in HTML5, CSS3, Javascript and knowledge in CSS Architectures and CSS Animations. I am currently learning English, Advanced Animations with Canvas in Javascript, Animations with SVG and CSS and Creation of Video Games.</p>	   
 </div>
@@ -12,7 +12,7 @@
 
 ## 
 <div align="center">
-  <img width="20%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/logo.png"></a>
+  <img width="20%" src="https://raw.githubusercontent.com/ErikGIovani/ErikGIovani/main/images/new-logo.png"></a>
 </div>
 
 
