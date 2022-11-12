@@ -6,8 +6,8 @@
 
 <div align="center">
    <h2>💻 Technologies</h2>
-   <img width="60%" src="https://skillicons.dev/icons?i=html,css,sass,javascript,astro,gatsby,nodejs,react,nextjs,wordpress,expressjs,graphql,apollo,figma,md&perline=7">
-   <p>HTML5, CSS3, SASS, JavaScript, Astro, Gatsby, Node JS, React, Next JS, Wordpress, Express JS, GraphQL, Apollo, Figma and Markdown</p>
+   <img width="60%" src="https://skillicons.dev/icons?i=html,css,sass,javascript,astro,gatsby,nodejs,react,nextjs,wordpress,expressjs,graphql,apollo,figma&perline=7">
+   <p>HTML5, CSS3, SASS, JavaScript, Astro, Gatsby, Node JS, React, Next JS, Wordpress, Express JS, GraphQL, Apollo, and Figma</p>
 </div>
 
 ## 
