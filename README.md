@@ -11,7 +11,7 @@
    <img width="70%" src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,astro,gatsby,wordpress,apollo&perline=9">
    
    <img width="63%" src="https://skillicons.dev/icons?i=nodejs,deno,react,nextjs,expressjs,graphql,md,figma&perline=8">
-   <p>HTML5, CSS3, SASS, JavaScript, TypeScript, Astro, Gatsby, Wordpress, Apollo, Node JS, Deno, React, Next JS,  Express JS, GraphQL, Markdown and Figma.</p>
+   <p>HTML5, CSS3, SASS, JavaScript, TypeScript, Astro, Gatsby, Wordpress, Apollo, Node JS, Deno, React, Next JS,  Express JS, GraphQL, Markdown y Figma.</p>
 </div>
 
 <div align="center">
