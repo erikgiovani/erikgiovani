@@ -10,8 +10,8 @@
    <h2>Technologies</h2>
    <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,javascript,typescript,astro,gatsby,wordpress,apollo&perline=9&theme=dark">
    
-   <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,deno,react,nextjs,angular,expressjs,graphql,md,figma&perline=9&theme=dark">
-   <p>HTML5, CSS3, SASS, JavaScript, TypeScript, Astro, Gatsby, Wordpress, Apollo, Node JS, Deno, React, Next JS, Angular, Express JS, GraphQL, Markdown and Figma.</p>
+   <img width="78%" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,deno,react,nextjs,angular,expressjs,hono,graphql,md,figma&perline=10&theme=dark">
+   <p>HTML5, CSS3, SASS, JavaScript, TypeScript, Astro, Gatsby, Wordpress, Apollo, Node JS, Deno, React, Next JS, Angular, Express JS, Hono, GraphQL, Markdown and Figma.</p>
 </div>
 
 <div align="center">
